@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Uthmani';
+  src : url('http://localhost/alquran/font/UthmanicHafs1 Ver09.otf') format('truetype');
+}
+
+h3{
+  background:#222;
+  color:#f9f9f9;
+   padding:5px;
+}
+
+.arabic{
+	font-family: 'Uthmani', serif;
+	font-size: 28px; font-weight: normal;
+	direction:rtl;
+	padding : 0 5px;
+	margin : 0;
+}
+.arabic_number {
+	font-size: 28px; font-weight: normal;
+}
+.arabic_center{
+	font-family: 'Uthmani', serif;
+	font-size: 28px; font-weight: normal;
+	text-align:center;
+	padding : 0 5px;
+	margin : 0;
+}
+.latin {
+	font-family: serif;
+	font-size: 14px; font-weight: normal;
+	direction:ltr;
+	padding : 0;
+	margin : 0;
+}
